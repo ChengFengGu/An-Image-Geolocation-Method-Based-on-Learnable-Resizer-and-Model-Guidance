@@ -1,4 +1,4 @@
-# An Image Geolocation Method Based on Learnable Resizer and Model Guidance
+# Size-adaptive Image Geolocation via Learnable Resizer and Pattern Guidance
 
 
 It will come soon ...
